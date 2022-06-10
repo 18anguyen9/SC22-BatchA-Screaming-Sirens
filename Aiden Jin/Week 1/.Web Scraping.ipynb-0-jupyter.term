@@ -1,0 +1,27 @@
+Jupyter console 6.0.0
+
+Python 3.9.12 (main, Apr  5 2022, 06:56:58) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.2.0 -- An enhanced Interactive Python. Type '?' for help.
+
+
+
+[?1l[6n[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                            [116C [8C[?7h[0m[?12l[?25h[8D[J[0m[?7h[?2004l[?1lWARNING: your terminal doesn't support cursor position requests (CPR).
+[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0m                                                                                                            [116C [8C[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mp [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mi [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0;38;5;129;1min[0m [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[2D[0mins [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m  [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mo [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mg [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m- [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ms [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ma [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mc [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mh [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0m- [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mr [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0me [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ms [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mu [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ml [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0mt [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[0ms [?7h[0m[?12l[?25h[?25l[?7l[?7h[0m[?12l[?25h[?25l[?7l[41D[0m[J[0;38;5;28mIn [[0;38;5;46;1m1[0;38;5;28m]: [0mpip install google-search-results                                                                           [116C [0m
+[J[?7h[0m[?12l[?25h[?2004lCollecting google-search-results
+  Downloading google_search_results-2.4.1.tar.gz (11 kB)
+Requirement already satisfied: requests in /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/enter/lib/python3.9/site-packages (from google-search-results) (2.27.1)
+Requirement already satisfied: idna<4,>=2.5 in /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/enter/lib/python3.9/site-packages (from requests->google-search-results) (3.3)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/enter/lib/python3.9/site-packages (from requests->google-search-results) (1.26.8)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/enter/lib/python3.9/site-packages (from requests->google-search-results) (2.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/enter/lib/python3.9/site-packages (from requests->google-search-results) (2021.10.8)
+Building wheels for collected packages: google-search-results
+  Building wheel for google-search-results (setup.py) ... [?25l- \ | / - \ | done
+[?25h  Created wheel for google-search-results: filename=google_search_results-2.4.1-py3-none-any.whl size=25789 sha256=12ffde47c954da2a5bf174ad8a2631597927fa639bcc3a9515c206e372270075
+  Stored in directory: /projects/8b4fa068-9e9d-4105-97fd-d5ae39d7e7c3/.cache/pip/wheels/e2/a8/8f/2c80a580d272be8f2088340d2c2b152c51077e01d6281beaef
+Successfully built google-search-results
+Installing collected packages: google-search-results
+Successfully installed google-search-results-2.4.1
+Note: you may need to restart the kernel to use updated packages.
+
+[?1l[?2004h[?25l[0m[?7l[0m[J[0;38;5;28mIn [[0;38;5;46;1m3[0;38;5;28m]: [0m                                                                                                            [116C [8C[?7h[0m[?12l[?25h
